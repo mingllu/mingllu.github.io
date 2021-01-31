@@ -8,6 +8,10 @@ body {
     text-shadow: 0 1px 3px rgba(0, 0, 0, .5);
 }
 
-.bg-light {
-    background-color: #d3d3d3;
+.text-left {
+    text-align: left;
+}
+
+.text-black {
+    color: #000000;
 }
